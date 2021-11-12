@@ -5,5 +5,5 @@
 - - -
 
 
-![MINISTUDIO](/image/MINISTUDIO.jpg)
+![MINISTUDIO](MINISTUDIO.JPG)
 
